@@ -1,0 +1,22 @@
+{
+  "name": "practicenpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Georgeovod/PracticeNPM.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "heorhii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Georgeovod/PracticeNPM/issues"
+  },
+  "homepage": "https://github.com/Georgeovod/PracticeNPM#readme"
+}
